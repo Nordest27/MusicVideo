@@ -1,5 +1,5 @@
 # MusicVideo
-Here is the code I used to make my song's music video. You can see the result here https://www.youtube.com/watch?v=lQtvpAp8xN0 :) (It gets kind of loud sometimes so beware)
+Here is the code I used to make my song's music video. You can see the result here https://www.youtube.com/watch?v=lQtvpAp8xN0 :) (it gets kind of loud sometimes so beware)
 
 It randomly builds three sets of points from a sphere, then makes chains of cylinders wich every one of the chains is connected to two points. The cylinders in each chain have different sizes, so it gives them a more organic look.
 
